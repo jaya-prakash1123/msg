@@ -1,0 +1,5 @@
+body{font-family:Arial,sans-serif;background:#0f172a;color:white;margin:0}
+header{padding:16px;background:#111827}
+.card{background:#1e293b;padding:16px;margin:16px;border-radius:12px}
+button{padding:10px 16px;border:none;border-radius:8px;cursor:pointer}
+.post{background:#1e293b;margin:16px;padding:16px;border-radius:12px}

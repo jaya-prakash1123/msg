@@ -1,0 +1,13 @@
+{
+  "app": "StitchPulse",
+  "posts": [
+    {
+      "author": "Admin",
+      "content": "Welcome to StitchPulse"
+    },
+    {
+      "author": "Creator",
+      "content": "Professional networking meets modern messaging"
+    }
+  ]
+}
